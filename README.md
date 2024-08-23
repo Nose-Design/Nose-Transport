@@ -11,3 +11,7 @@ The Nose Transport typeface family consists of three font sizes with four weight
   <source media="(prefers-color-scheme: light)" srcset="https:/raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-light.png">
   <img alt="Sample" src="https://raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-light.png">
 </picture>
+
+## License
+
+In the spirit of the public good and with the aim of helping to improve and expand the font family, Nose Transport is freely available under the [SIL Open Font License](https://openfontlicense.org).
