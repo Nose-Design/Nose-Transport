@@ -4,8 +4,6 @@ Thanks to its expertise in the field of public transport and inspired by the dot
 
 The Nose Transport typeface family consists of three font sizes with four weight classes and two different pixel shapes each.
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https:/raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-light.png">
