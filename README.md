@@ -7,7 +7,7 @@ The Nose Transport typeface family consists of three font sizes with four weight
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https:/raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https:/raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-light.png">
   <img alt="Sample" src="https://raw.githubusercontent.com/Nose-Design/Nose-Transport/main/misc/intro-light.png">
 </picture>
