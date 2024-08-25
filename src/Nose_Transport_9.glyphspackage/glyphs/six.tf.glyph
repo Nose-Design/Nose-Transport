@@ -1,0 +1,17 @@
+{
+glyphname = six.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = six;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

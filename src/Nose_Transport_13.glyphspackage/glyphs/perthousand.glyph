@@ -1,0 +1,57 @@
+{
+glyphname = perthousand;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = percent;
+},
+{
+alignment = -1;
+pos = (500,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (500,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (550,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (600,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (550,100);
+ref = pixel;
+}
+);
+width = 700;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 8240;
+}

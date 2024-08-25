@@ -1,0 +1,24 @@
+{
+glyphname = seven.tf;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = zero;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = seven;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

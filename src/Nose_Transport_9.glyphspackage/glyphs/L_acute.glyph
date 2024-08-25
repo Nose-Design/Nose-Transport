@@ -1,0 +1,23 @@
+{
+glyphname = Lacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = L.compressed;
+},
+{
+alignment = -1;
+pos = (-200,100);
+ref = acutecomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 313;
+}

@@ -1,0 +1,30 @@
+{
+glyphname = lacute;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = Odieresis;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = l.compressed;
+},
+{
+alignment = -1;
+pos = (-200,100);
+ref = acutecomb;
+}
+);
+width = 200;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 314;
+}

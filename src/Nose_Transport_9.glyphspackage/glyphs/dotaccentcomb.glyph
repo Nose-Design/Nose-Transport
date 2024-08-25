@@ -1,0 +1,42 @@
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (50,300);
+},
+{
+name = top;
+pos = (50,400);
+}
+);
+background = {
+shapes = (
+{
+pos = (-50,0);
+ref = i;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,350);
+ref = pixel;
+}
+);
+width = 150;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 775;
+}

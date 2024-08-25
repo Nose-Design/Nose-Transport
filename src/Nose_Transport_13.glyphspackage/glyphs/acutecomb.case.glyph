@@ -1,0 +1,22 @@
+{
+glyphname = acutecomb.case;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = l;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+pos = (0,200);
+ref = acutecomb;
+}
+);
+width = 400;
+}
+);
+}

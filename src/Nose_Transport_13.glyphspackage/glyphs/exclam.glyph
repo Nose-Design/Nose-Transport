@@ -1,0 +1,107 @@
+{
+glyphname = exclam;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = period;
+},
+{
+alignment = -1;
+pos = (0,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,600);
+ref = pixel;
+}
+);
+width = 150;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 33;
+}

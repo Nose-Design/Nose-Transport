@@ -1,0 +1,23 @@
+{
+glyphname = lcommaaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = l.compressed.bottom;
+},
+{
+alignment = -1;
+pos = (-150,0);
+ref = commaaccentcomb;
+}
+);
+width = 200;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 316;
+}

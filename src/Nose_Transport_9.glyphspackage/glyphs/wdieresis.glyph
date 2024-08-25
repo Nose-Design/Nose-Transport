@@ -1,0 +1,52 @@
+{
+glyphname = wdieresis;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (250,450);
+}
+);
+background = {
+shapes = (
+{
+pos = (50,0);
+ref = dieresiscomb;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (100,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,400);
+ref = pixel;
+}
+);
+width = 550;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 7813;
+}

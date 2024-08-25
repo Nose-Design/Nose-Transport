@@ -1,0 +1,23 @@
+{
+glyphname = Ugrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+alignment = -1;
+pos = (-100,200);
+ref = gravecomb;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 217;
+}

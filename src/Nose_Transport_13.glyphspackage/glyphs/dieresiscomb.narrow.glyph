@@ -1,0 +1,68 @@
+{
+glyphname = dieresiscomb.narrow;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (150,500);
+},
+{
+name = top;
+pos = (150,650);
+}
+);
+background = {
+shapes = (
+{
+ref = a;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (50,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,600);
+ref = pixel;
+}
+);
+width = 400;
+}
+);
+}

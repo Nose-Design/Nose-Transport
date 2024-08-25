@@ -1,0 +1,14 @@
+{
+glyphname = eight.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = eight;
+}
+);
+width = 500;
+}
+);
+}

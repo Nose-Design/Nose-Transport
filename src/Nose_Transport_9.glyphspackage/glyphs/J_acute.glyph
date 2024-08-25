@@ -1,0 +1,27 @@
+{
+glyphname = Jacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = J.compressed;
+},
+{
+alignment = -1;
+pos = (200,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,500);
+ref = pixel;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

@@ -1,0 +1,75 @@
+{
+glyphname = one.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = one;
+},
+{
+alignment = -1;
+pos = (50,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,50);
+ref = pixel;
+}
+);
+width = 500;
+}
+);
+}

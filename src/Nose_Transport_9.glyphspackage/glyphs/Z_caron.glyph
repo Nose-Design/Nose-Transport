@@ -1,0 +1,23 @@
+{
+glyphname = Zcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Z.compressed;
+},
+{
+alignment = -1;
+pos = (-50,-50);
+ref = caroncomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 381;
+}

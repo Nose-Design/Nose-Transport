@@ -1,0 +1,21 @@
+{
+export = 0;
+glyphname = pixel.square.thin;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(15,15,l),
+(35,15,l),
+(35,35,l),
+(15,35,l)
+);
+}
+);
+width = 50;
+}
+);
+}

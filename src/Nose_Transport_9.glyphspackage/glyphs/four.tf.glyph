@@ -1,0 +1,17 @@
+{
+glyphname = four.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = four;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

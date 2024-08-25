@@ -1,0 +1,22 @@
+{
+glyphname = four.tf.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = zero;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = four.ss01;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+}

@@ -1,0 +1,25 @@
+{
+glyphname = endash;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (50,0);
+ref = n;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = minus;
+}
+);
+width = 450;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 8211;
+}

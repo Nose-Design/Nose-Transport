@@ -1,0 +1,76 @@
+{
+glyphname = leftOneEighthBlock;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,50);
+ref = pixel;
+},
+{
+alignment = -1;
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,-50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,-100);
+ref = pixel;
+}
+);
+width = 50;
+}
+);
+unicode = 9615;
+}

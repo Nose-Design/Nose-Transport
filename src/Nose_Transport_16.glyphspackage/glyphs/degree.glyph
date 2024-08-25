@@ -1,0 +1,114 @@
+{
+glyphname = degree;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (150,700);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,700);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,650);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,650);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,750);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,750);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,650);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,650);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,700);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,700);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,550);
+ref = pixel;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 176;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = ncommaaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+pos = (-50,0);
+ref = commaaccentcomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=a";
+metricRight = "=a";
+unicode = 326;
+}

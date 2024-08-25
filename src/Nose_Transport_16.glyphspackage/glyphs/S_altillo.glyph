@@ -1,0 +1,111 @@
+{
+glyphname = Saltillo;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = l;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (50,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,650);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,700);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,750);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,750);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,700);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,650);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,350);
+ref = pixel;
+}
+);
+width = 200;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 42891;
+}

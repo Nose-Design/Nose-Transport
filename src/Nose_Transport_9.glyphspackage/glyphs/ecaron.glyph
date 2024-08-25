@@ -1,0 +1,23 @@
+{
+glyphname = ecaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = e.compressed;
+},
+{
+alignment = -1;
+pos = (-50,-150);
+ref = caroncomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 283;
+}

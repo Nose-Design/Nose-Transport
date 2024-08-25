@@ -1,0 +1,23 @@
+{
+glyphname = zero.tf.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = zero;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = zero.ss01;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+}

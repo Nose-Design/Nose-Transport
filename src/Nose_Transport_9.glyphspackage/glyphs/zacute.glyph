@@ -1,0 +1,23 @@
+{
+glyphname = zacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+alignment = -1;
+pos = (-100,0);
+ref = acutecomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 378;
+}

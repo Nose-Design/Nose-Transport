@@ -1,0 +1,192 @@
+{
+glyphname = .notdef;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,50);
+ref = pixel;
+},
+{
+alignment = -1;
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,0);
+ref = pixel;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

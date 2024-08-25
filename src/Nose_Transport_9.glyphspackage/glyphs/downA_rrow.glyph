@@ -1,0 +1,28 @@
+{
+glyphname = downArrow;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (0,450);
+ref = upArrow;
+scale = (1,-1);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+pos = (0,450);
+ref = upArrow;
+scale = (1,-1);
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 8595;
+}

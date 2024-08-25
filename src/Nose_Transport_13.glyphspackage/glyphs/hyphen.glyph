@@ -1,0 +1,82 @@
+{
+glyphname = hyphen;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-50,0);
+ref = n;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,200);
+ref = pixel;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 45;
+}

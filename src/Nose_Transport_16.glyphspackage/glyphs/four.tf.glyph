@@ -1,0 +1,14 @@
+{
+glyphname = four.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = four;
+}
+);
+width = 500;
+}
+);
+}

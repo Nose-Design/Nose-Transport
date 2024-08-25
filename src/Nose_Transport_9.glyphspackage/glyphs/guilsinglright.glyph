@@ -1,0 +1,19 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (250,0);
+ref = guilsinglleft;
+scale = (-1,1);
+}
+);
+width = 300;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 8250;
+}

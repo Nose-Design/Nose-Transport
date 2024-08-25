@@ -1,0 +1,75 @@
+{
+glyphname = slashshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (100,350);
+}
+);
+background = {
+shapes = (
+{
+ref = L;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,400);
+ref = pixel;
+}
+);
+width = 450;
+}
+);
+unicode = 823;
+}

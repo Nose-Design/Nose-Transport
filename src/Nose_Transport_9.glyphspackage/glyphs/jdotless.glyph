@@ -1,0 +1,101 @@
+{
+glyphname = jdotless;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = j;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (50,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,-50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,-50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,200);
+ref = pixel;
+}
+);
+width = 200;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 567;
+}

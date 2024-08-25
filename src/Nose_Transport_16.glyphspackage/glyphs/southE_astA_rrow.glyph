@@ -1,0 +1,19 @@
+{
+glyphname = southEastArrow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,600);
+ref = northEastArrow;
+scale = (1,-1);
+}
+);
+width = 600;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 8600;
+}

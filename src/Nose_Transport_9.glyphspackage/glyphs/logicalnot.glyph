@@ -1,0 +1,56 @@
+{
+glyphname = logicalnot;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = divide;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,100);
+ref = pixel;
+}
+);
+width = 300;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 172;
+}

@@ -1,0 +1,43 @@
+{
+color = 9;
+glyphname = iogonek.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = idotless.compressed;
+},
+{
+alignment = -1;
+pos = (-250,0);
+ref = ogonekcomb;
+},
+{
+alignment = -1;
+pos = (0,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,400);
+ref = pixel;
+}
+);
+width = 150;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

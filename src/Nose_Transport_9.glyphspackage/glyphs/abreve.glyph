@@ -1,0 +1,23 @@
+{
+glyphname = abreve;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = a.compressed;
+},
+{
+alignment = -1;
+pos = (-50,-150);
+ref = brevecomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 259;
+}

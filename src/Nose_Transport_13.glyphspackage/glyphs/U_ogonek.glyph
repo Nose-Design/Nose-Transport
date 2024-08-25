@@ -1,0 +1,22 @@
+{
+glyphname = Uogonek;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = U;
+},
+{
+pos = (-100,0);
+ref = ogonekcomb;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 370;
+}

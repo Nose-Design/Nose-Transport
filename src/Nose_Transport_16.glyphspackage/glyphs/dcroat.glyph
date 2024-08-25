@@ -1,0 +1,22 @@
+{
+glyphname = dcroat;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = d;
+},
+{
+alignment = -1;
+pos = (250,300);
+ref = strokeshortcomb;
+}
+);
+width = 550;
+}
+);
+metricLeft = "=A";
+unicode = 273;
+}

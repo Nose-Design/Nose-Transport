@@ -1,0 +1,17 @@
+{
+glyphname = two.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = two;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

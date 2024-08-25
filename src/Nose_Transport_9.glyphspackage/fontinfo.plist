@@ -1,0 +1,420 @@
+{
+.appVersion = "3260";
+.formatVersion = 3;
+customParameters = (
+{
+name = "Disable Subroutines";
+value = 0;
+}
+);
+date = "2022-03-14 14:18:42 +0000";
+familyName = "Nose Transport 9";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn NLD;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;
+feature pnum;
+feature tnum;
+feature zero;
+feature ss01;
+feature ss02;
+";
+tag = aalt;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language NLD;
+lookup locl_latn_0 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_0;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+";
+tag = tnum;
+},
+{
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub bracketleft one eight bracketright by bracketleft_one_eight_bracketright.liga;
+sub bracketleft one five bracketright by bracketleft_one_five_bracketright.liga;
+sub bracketleft one four bracketright by bracketleft_one_four_bracketright.liga;
+sub bracketleft one nine bracketright by bracketleft_one_nine_bracketright.liga;
+sub bracketleft one one bracketright by bracketleft_one_one_bracketright.liga;
+sub bracketleft one seven bracketright by bracketleft_one_seven_bracketright.liga;
+sub bracketleft one six bracketright by bracketleft_one_six_bracketright.liga;
+sub bracketleft one three bracketright by bracketleft_one_three_bracketright.liga;
+sub bracketleft one two bracketright by bracketleft_one_two_bracketright.liga;
+sub bracketleft one zero bracketright by bracketleft_one_zero_bracketright.liga;
+sub bracketleft two zero bracketright by bracketleft_two_zero_bracketright.liga;
+sub bracketleft eight bracketright by bracketleft_eight_bracketright.liga;
+sub bracketleft five bracketright by bracketleft_five_bracketright.liga;
+sub bracketleft four bracketright by bracketleft_four_bracketright.liga;
+sub bracketleft nine bracketright by bracketleft_nine_bracketright.liga;
+sub bracketleft one bracketright by bracketleft_one_bracketright.liga;
+sub bracketleft seven bracketright by bracketleft_seven_bracketright.liga;
+sub bracketleft six bracketright by bracketleft_six_bracketright.liga;
+sub bracketleft three bracketright by bracketleft_three_bracketright.liga;
+sub bracketleft two bracketright by bracketleft_two_bracketright.liga;
+sub bracketleft zero bracketright by bracketleft_zero_bracketright.liga;
+";
+tag = liga;
+},
+{
+automatic = 1;
+code = "sub zero by zero.zero;
+";
+tag = zero;
+},
+{
+automatic = 1;
+code = "sub A by A.ss01;
+sub B by B.ss01;
+sub C by C.ss01;
+sub D by D.ss01;
+sub E by E.ss01;
+sub F by F.ss01;
+sub G by G.ss01;
+sub H by H.ss01;
+sub I by I.ss01;
+sub J by J.ss01;
+sub K by K.ss01;
+sub L by L.ss01;
+sub M by M.ss01;
+sub N by N.ss01;
+sub O by O.ss01;
+sub P by P.ss01;
+sub Q by Q.ss01;
+sub R by R.ss01;
+sub S by S.ss01;
+sub T by T.ss01;
+sub U by U.ss01;
+sub V by V.ss01;
+sub W by W.ss01;
+sub X by X.ss01;
+sub Y by Y.ss01;
+sub Z by Z.ss01;
+sub zero by zero.ss01;
+sub one by one.ss01;
+sub two by two.ss01;
+sub three by three.ss01;
+sub four by four.ss01;
+sub five by five.ss01;
+sub six by six.ss01;
+sub seven by seven.ss01;
+sub eight by eight.ss01;
+sub nine by nine.ss01;
+sub zero.zero by zero.zero.ss01;
+sub zero.tf by zero.tf.ss01;
+sub one.tf by one.tf.ss01;
+sub two.tf by two.tf.ss01;
+sub three.tf by three.tf.ss01;
+sub four.tf by four.tf.ss01;
+sub five.tf by five.tf.ss01;
+sub six.tf by six.tf.ss01;
+sub seven.tf by seven.tf.ss01;
+sub eight.tf by eight.tf.ss01;
+sub nine.tf by nine.tf.ss01;
+";
+labels = (
+{
+language = dflt;
+value = Negative;
+}
+);
+tag = ss01;
+},
+{
+automatic = 1;
+code = "sub M by M.ss02;
+sub i by i.ss02;
+sub iogonek by iogonek.ss02;
+sub ij by ij.ss02;
+sub j by j.ss02;
+sub w by w.ss02;
+sub numbersign by numbersign.ss02;
+sub informationsource by informationsource.ss02;
+sub plus by plus.ss02;
+sub minus by minus.ss02;
+sub multiply by multiply.ss02;
+sub divide by divide.ss02;
+sub equal by equal.ss02;
+sub plusminus by plusminus.ss02;
+sub logicalnot by logicalnot.ss02;
+";
+tag = ss02;
+}
+);
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+pos = 550;
+},
+{
+pos = 450;
+},
+{
+pos = 350;
+},
+{
+},
+{
+pos = -100;
+}
+);
+name = Regular;
+}
+);
+instances = (
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"pixel=pixel.bold"
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+isBold = 1;
+linkStyle = "Regular Dot";
+name = "Bold Dot";
+weightClass = 700;
+},
+{
+instanceInterpolations = {
+m01 = 1;
+};
+name = "Regular Dot";
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"pixel=pixel.light"
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "Light Dot";
+weightClass = 300;
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"pixel=pixel.thin"
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "Thin Dot";
+weightClass = 200;
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"pixel=pixel.square.bold"
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+isBold = 1;
+linkStyle = "Regular Square";
+name = "Bold Square";
+weightClass = 700;
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"pixel=pixel.square"
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "Regular Square";
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"pixel=pixel.square.light"
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "Light Square";
+weightClass = 300;
+},
+{
+customParameters = (
+{
+name = "Rename Glyphs";
+value = (
+"pixel=pixel.square.thin"
+);
+}
+);
+instanceInterpolations = {
+m01 = 1;
+};
+name = "Thin Square";
+weightClass = 200;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+note = "Nose Transport 9+2+2
+
+Filter:
+
+Transformations;LSB:-50; exclude:lowerHalfBlock,lowerThreeQuartersBlock,fullBlock,leftOneEighthBlock,leftOneQuarterBlock,leftBlock";
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright © 2022 The Nose Transport Project Authors";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Nico Rohrbach";
+}
+);
+},
+{
+key = designerURL;
+value = "https://superpixel.ch";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1.";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://openfontlicense.org";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = Nose;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://nose.ch";
+},
+{
+key = vendorID;
+value = NOSE;
+}
+);
+settings = {
+gridLength = 50;
+gridSubDivision = 10;
+};
+unitsPerEm = 650;
+versionMajor = 1;
+versionMinor = 300;
+}

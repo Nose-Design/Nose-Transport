@@ -1,0 +1,92 @@
+{
+glyphname = asciicircum;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-100,0);
+ref = M;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (150,600);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,500);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,400);
+ref = pixel;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 94;
+}

@@ -1,0 +1,22 @@
+{
+glyphname = Etilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+pos = (-50,200);
+ref = tildecomb;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 7868;
+}

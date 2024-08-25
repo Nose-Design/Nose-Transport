@@ -1,0 +1,22 @@
+{
+glyphname = six.tf.ss01;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = zero;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+ref = six.ss01;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+}

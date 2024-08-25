@@ -1,0 +1,163 @@
+{
+glyphname = at;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = a;
+},
+{
+alignment = -1;
+pos = (300,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,50);
+ref = pixel;
+},
+{
+alignment = -1;
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (450,50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (400,0);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,-50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,400);
+ref = pixel;
+}
+);
+width = 550;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 64;
+}

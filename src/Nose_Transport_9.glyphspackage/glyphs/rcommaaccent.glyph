@@ -1,0 +1,23 @@
+{
+glyphname = rcommaaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = r.compressed.bottom;
+},
+{
+alignment = -1;
+pos = (-150,0);
+ref = commaaccentcomb;
+}
+);
+width = 250;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 343;
+}

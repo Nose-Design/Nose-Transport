@@ -1,0 +1,22 @@
+{
+glyphname = tcaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = t;
+},
+{
+pos = (-50,0);
+ref = caroncomb.alt;
+}
+);
+width = 300;
+}
+);
+metricLeft = "=a";
+metricRight = "=a";
+unicode = 357;
+}

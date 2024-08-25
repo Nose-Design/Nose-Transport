@@ -1,0 +1,18 @@
+{
+glyphname = j;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = jdotless;
+},
+{
+ref = dotaccentcomb;
+}
+);
+width = 200;
+}
+);
+unicode = 106;
+}

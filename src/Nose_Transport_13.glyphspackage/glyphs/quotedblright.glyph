@@ -1,0 +1,94 @@
+{
+glyphname = quotedblright;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-50,0);
+ref = quotedblleft;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (300,650);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (250,650);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (300,600);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (250,600);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (250,550);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (200,550);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (150,650);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (100,650);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (150,600);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (100,600);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (100,550);
+ref = pixel;
+},
+{
+alignment = -1;
+angle = 180;
+pos = (50,550);
+ref = pixel;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 8221;
+}

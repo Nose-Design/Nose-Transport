@@ -1,0 +1,45 @@
+{
+glyphname = strokeshortcomb;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (300,550);
+}
+);
+background = {
+shapes = (
+{
+ref = d;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (200,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,550);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,550);
+ref = pixel;
+}
+);
+width = 400;
+}
+);
+unicode = 821;
+}

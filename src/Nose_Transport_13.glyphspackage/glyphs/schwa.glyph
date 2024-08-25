@@ -1,0 +1,29 @@
+{
+glyphname = schwa;
+layers = (
+{
+background = {
+shapes = (
+{
+angle = 180;
+pos = (300,450);
+ref = e;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+angle = 180;
+pos = (300,450);
+ref = e;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=a";
+metricRight = "=a";
+unicode = 601;
+}

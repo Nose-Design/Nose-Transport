@@ -1,0 +1,39 @@
+{
+glyphname = periodcentered;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = A;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+}
+);
+width = 350;
+}
+);
+unicode = 183;
+}

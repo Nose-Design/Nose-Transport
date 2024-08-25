@@ -1,0 +1,21 @@
+{
+glyphname = idotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+pos = (-50,0);
+ref = dotaccentcomb;
+}
+);
+width = 150;
+}
+);
+metricLeft = "=a";
+metricRight = "=a";
+}

@@ -1,0 +1,28 @@
+{
+glyphname = racute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = r.compressed;
+},
+{
+alignment = -1;
+pos = (150,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,350);
+ref = pixel;
+}
+);
+width = 250;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 341;
+}

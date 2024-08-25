@@ -1,0 +1,23 @@
+{
+glyphname = Otilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = O.compressed;
+},
+{
+alignment = -1;
+pos = (-50,50);
+ref = tildecomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 213;
+}

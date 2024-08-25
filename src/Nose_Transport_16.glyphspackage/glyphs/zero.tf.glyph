@@ -1,0 +1,14 @@
+{
+glyphname = zero.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = zero;
+}
+);
+width = 500;
+}
+);
+}

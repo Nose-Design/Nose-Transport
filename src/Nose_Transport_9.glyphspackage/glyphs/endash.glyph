@@ -1,0 +1,102 @@
+{
+glyphname = endash;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-50,0);
+ref = N;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (350,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (350,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,150);
+ref = pixel;
+}
+);
+width = 450;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 8211;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = nine.tf;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = zero;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = nine;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+}

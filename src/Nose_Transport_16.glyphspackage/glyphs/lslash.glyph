@@ -1,0 +1,22 @@
+{
+glyphname = lslash;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (50,0);
+ref = l;
+},
+{
+alignment = -1;
+pos = (0,50);
+ref = slashshortcomb.narrow;
+}
+);
+width = 300;
+}
+);
+unicode = 322;
+}

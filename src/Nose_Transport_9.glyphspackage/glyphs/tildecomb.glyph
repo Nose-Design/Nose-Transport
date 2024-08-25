@@ -1,0 +1,59 @@
+{
+glyphname = tildecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,350);
+},
+{
+name = top;
+pos = (200,500);
+}
+);
+background = {
+shapes = (
+{
+ref = a;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (100,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,450);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,400);
+ref = pixel;
+}
+);
+width = 400;
+}
+);
+unicode = 771;
+}

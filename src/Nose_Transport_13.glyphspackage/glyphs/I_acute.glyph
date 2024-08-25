@@ -1,0 +1,23 @@
+{
+glyphname = Iacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = I;
+},
+{
+alignment = -1;
+pos = (-50,200);
+ref = acutecomb;
+}
+);
+width = 250;
+}
+);
+metricLeft = "=A";
+metricRight = "=|A";
+unicode = 205;
+}

@@ -1,0 +1,19 @@
+{
+glyphname = Jacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = J;
+},
+{
+alignment = -1;
+pos = (200,200);
+ref = acutecomb;
+}
+);
+width = 500;
+}
+);
+}

@@ -1,0 +1,18 @@
+{
+glyphname = thinspace;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (-50,0);
+ref = i;
+}
+);
+};
+layerId = m01;
+width = 50;
+}
+);
+unicode = 8201;
+}

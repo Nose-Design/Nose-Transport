@@ -1,0 +1,54 @@
+{
+glyphname = degree;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (50,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,400);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (0,300);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (50,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (100,250);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,350);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,300);
+ref = pixel;
+}
+);
+width = 250;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 176;
+}

@@ -1,0 +1,14 @@
+{
+glyphname = seven.tf;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = seven;
+}
+);
+width = 500;
+}
+);
+}

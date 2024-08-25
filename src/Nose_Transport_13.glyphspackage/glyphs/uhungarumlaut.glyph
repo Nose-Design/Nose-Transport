@@ -1,0 +1,22 @@
+{
+glyphname = uhungarumlaut;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+pos = (-50,0);
+ref = hungarumlautcomb;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=a";
+metricRight = "=a";
+unicode = 369;
+}

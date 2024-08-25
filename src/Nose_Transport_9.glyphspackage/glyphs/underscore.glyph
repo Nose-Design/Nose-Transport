@@ -1,0 +1,25 @@
+{
+glyphname = underscore;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = n;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+pos = (0,-150);
+ref = endash;
+}
+);
+width = 450;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 95;
+}

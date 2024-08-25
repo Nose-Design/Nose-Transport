@@ -1,0 +1,22 @@
+{
+color = 9;
+glyphname = uring.ss02;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = u.compressed;
+},
+{
+pos = (-50,0);
+ref = ringcomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=a";
+metricRight = "=a";
+}

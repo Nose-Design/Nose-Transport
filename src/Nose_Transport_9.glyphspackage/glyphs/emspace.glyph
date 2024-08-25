@@ -1,0 +1,17 @@
+{
+glyphname = emspace;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = M;
+}
+);
+};
+layerId = m01;
+width = 500;
+}
+);
+unicode = 8195;
+}

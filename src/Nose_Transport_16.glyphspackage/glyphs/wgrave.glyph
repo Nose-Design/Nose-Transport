@@ -1,0 +1,21 @@
+{
+glyphname = wgrave;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (50,0);
+ref = gravecomb;
+}
+);
+width = 700;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 7809;
+}

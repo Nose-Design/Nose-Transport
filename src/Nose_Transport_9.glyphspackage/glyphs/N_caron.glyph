@@ -1,0 +1,23 @@
+{
+glyphname = Ncaron;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = N.compressed;
+},
+{
+alignment = -1;
+pos = (-50,-50);
+ref = caroncomb;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 327;
+}

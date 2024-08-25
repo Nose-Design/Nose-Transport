@@ -1,0 +1,14 @@
+{
+glyphname = nine.tf.ss01;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = nine.ss01;
+}
+);
+width = 300;
+}
+);
+}

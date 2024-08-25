@@ -1,0 +1,21 @@
+{
+glyphname = wacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = w;
+},
+{
+pos = (150,0);
+ref = acutecomb;
+}
+);
+width = 700;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 7811;
+}

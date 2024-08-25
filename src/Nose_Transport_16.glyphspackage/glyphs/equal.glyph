@@ -1,0 +1,22 @@
+{
+glyphname = equal;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,100);
+ref = minus;
+},
+{
+pos = (0,-100);
+ref = minus;
+}
+);
+width = 600;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 61;
+}

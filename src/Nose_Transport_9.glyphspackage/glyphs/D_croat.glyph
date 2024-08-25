@@ -1,0 +1,18 @@
+{
+glyphname = Dcroat;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = Eth;
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 272;
+}

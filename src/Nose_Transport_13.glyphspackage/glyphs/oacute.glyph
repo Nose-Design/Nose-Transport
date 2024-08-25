@@ -1,0 +1,21 @@
+{
+glyphname = oacute;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+ref = acutecomb;
+}
+);
+width = 350;
+}
+);
+metricLeft = "=a";
+metricRight = "=a";
+unicode = 243;
+}

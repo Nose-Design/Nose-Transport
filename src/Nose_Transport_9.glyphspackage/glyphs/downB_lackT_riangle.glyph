@@ -1,0 +1,19 @@
+{
+glyphname = downBlackTriangle;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,350);
+ref = upBlackTriangle;
+scale = (1,-1);
+}
+);
+width = 400;
+}
+);
+metricLeft = "=A";
+metricRight = "=A";
+unicode = 9660;
+}

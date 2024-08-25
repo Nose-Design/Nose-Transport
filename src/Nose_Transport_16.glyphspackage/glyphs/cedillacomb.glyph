@@ -1,0 +1,64 @@
+{
+glyphname = cedillacomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (250,0);
+},
+{
+name = bottom;
+pos = (250,-200);
+}
+);
+background = {
+shapes = (
+{
+ref = c;
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+alignment = -1;
+pos = (300,-150);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (200,-200);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (250,-50);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (300,-100);
+ref = pixel;
+},
+{
+alignment = -1;
+pos = (150,-150);
+ref = pixel;
+}
+);
+width = 500;
+}
+);
+unicode = 807;
+}

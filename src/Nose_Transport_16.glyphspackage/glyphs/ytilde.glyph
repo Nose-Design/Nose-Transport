@@ -1,0 +1,18 @@
+{
+glyphname = ytilde;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = y;
+},
+{
+ref = tildecomb;
+}
+);
+width = 500;
+}
+);
+unicode = 7929;
+}
