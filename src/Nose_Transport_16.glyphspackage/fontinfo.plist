@@ -452,5 +452,5 @@ gridSubDivision = 10;
 };
 unitsPerEm = 1200;
 versionMajor = 1;
-versionMinor = 300;
+versionMinor = 400;
 }

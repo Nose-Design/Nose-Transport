@@ -1,5 +1,9 @@
 # Change Notes for Nose Transport
 
+## 2024-08-27: Version 1.4
+- Added missing pixels to the character `3` of the negative set.
+- Removed the first column of pixels of the special negative number ligatures to better center the numbers in the box.  
+
 ## 2024-08-25: Version 1.3
 - Added negative numbers and basic characters.
 - Added special ligatures to build negative numbers from 1 to 20.
